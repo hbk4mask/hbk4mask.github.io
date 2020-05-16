@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Before The Wheel"
 title_separator          : "-"
-subtitle                 : "Aman Kaushik" # site tagline that appears below site title in masthead
+subtitle                 : "with Aman Kaushik" # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "On Before The Wheel show, I talk to guests from diverse background like Technology, Art, Psychology, Social Science, Health, Spirituality etc. "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
