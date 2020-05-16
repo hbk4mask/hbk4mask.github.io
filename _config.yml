@@ -20,7 +20,7 @@ title                    : "Before The Wheel"
 title_separator          : "-"
 subtitle                 : "Aman Kaushik" # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "Before The Wheel"
+description              : "On Before The Wheel show, I talk to guests from diverse background like Technology, Art, Psychology, Social Science, Health, Spirituality etc. "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
