@@ -2,7 +2,7 @@
 title: "Why forced Work From Home is the best thing that happened due to Coronavirus."
 layout: single
 classes: wide
-tags: [coronavirus, lockdown]
+tags: [coronavirus, lockdown, covid19, new normal, indian lockdown]
 
 excerpt: "Due to the recent coronavirus outbreak, the government has instructed to close shopping malls, movie theaters, schools, gyms. The airline and tourism industry is badly hit. Major sports leagues have canceled the season."
 
@@ -40,7 +40,7 @@ It has been proven that people working from home can experience an increase in p
 
 Sitting in traffic is also extremely unpleasant experience. Many researchers have linked traffic to negative mental health outcomes, including stress, aggression, and depression. Having the comfort of living in the home is definitely bliss. The satisfaction of being available for the family throughout the day is something a family person always craves for and needless to say it leads to more happiness. Needless to say family of employees are happier too.
 
-5. **Preparation for future pandemics/calamities**
+<b>5. Preparation for future pandemics/calamities</b>
 
 Not only working remotely will help in keeping things going. It is the biggest experiment to understand how it can be improved further. If proven successful which most probably will, this will set a precedence to a future situation like this, either natural calamities like or man-made like recent Delhi riots and emergency due to increased pollution levels.
 
