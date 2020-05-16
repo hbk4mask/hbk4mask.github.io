@@ -23,20 +23,20 @@ Normally work from home is an option reserved only for time when people are not 
 
 Now not every corporate executive will agree on long term remote work, few of them need to interact with people as it is the only task they have, but there are many advantages of long term working from home.
 
-1. **A Decrease in air pollution levels**
+<b>1. A Decrease in air pollution levels</b>
 
 Vehicular emission is responsible for almost 40% of air pollution. Vehicular emission contains gases like Nitrogen Oxides and Carbon monoxide along with particulate matters. These emissions, including other harmful gases and microscopic particles, can contribute to breathing and heart problems along with an elevated risk of cancer. Switching to work from home is going to have a very positive effect on air pollution levels.
 
 
-2. **A decrease in operational costs**
+<b>2. A decrease in operational costs</b>
 
 With no employees in offices, private organizations will spend less to keep the office premises operational. Reduced electricity bills, cafeteria/snack expenditure and cutting costs on keeping basic amenities like water, sanitation, stationery, etc up and running. All these small but impactful cost-cutting can lead to a significant profit increase for companies in the long run.
 
-3. **Increase in work productivity**
+<b>3. Increase in work productivity</b>
 
 It has been proven that people working from home can experience an increase in productivity by up to 30%. That's huge. You can give 1000 bucks extra to employees and still can't get more than a 10% increase in productivity. Cutting travel time and resetting time (time spent to calm down post-travel) makes more time available to the work done. Time spent in going out for lunch is also something you can factor in. In addition, mental fatigue due to travel is real. Avoiding travel alone makes you feel more energetic throughout the day.
 
-4. **Happier employees**
+<b>4. Happier employees</b>
 
 Sitting in traffic is also extremely unpleasant experience. Many researchers have linked traffic to negative mental health outcomes, including stress, aggression, and depression. Having the comfort of living in the home is definitely bliss. The satisfaction of being available for the family throughout the day is something a family person always craves for and needless to say it leads to more happiness. Needless to say family of employees are happier too.
 
