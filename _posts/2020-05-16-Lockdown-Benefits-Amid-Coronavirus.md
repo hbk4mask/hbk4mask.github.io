@@ -1,6 +1,6 @@
 ---
 title: "Why forced Work From Home is the best thing that happened due to Coronavirus."
-layout: collection
+layout: single
 classes: wide
 tags: [coronavirus, lockdown, covid19, new normal, indian lockdown]
 
