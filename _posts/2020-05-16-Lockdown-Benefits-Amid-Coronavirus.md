@@ -2,6 +2,7 @@
 title: "Why forced Work From Home is the best thing that happened due to Coronavirus."
 layout: single
 classes: wide
+font: serif
 tags: [coronavirus, lockdown, covid19, new normal, indian lockdown]
 
 excerpt: "Due to the recent coronavirus outbreak, the government has instructed to close shopping malls, movie theaters, schools, gyms. The airline and tourism industry is badly hit. Major sports leagues have canceled the season."
