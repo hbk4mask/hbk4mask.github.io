@@ -56,7 +56,7 @@ encouraging animals to drink more water before sleeping to avoid becoming dehydr
 
 It is clear that we need to keep ourself hydrated through out the day without being reminded by our brain to do so. One trick can helo you tremendously to reach the recommended amount of water intake. Proximity to water.
 
->Promixity to water source can really effect your water intake
+>Promixity to water source can effect your water intake
 
 Wait a minute ! Promixity to water ? We have water in our houses, in our workplaces, schools. We are always close to water source. But not close enough. How many times 
 
