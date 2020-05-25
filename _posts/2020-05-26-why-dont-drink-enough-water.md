@@ -5,7 +5,7 @@ classes: wide
 font: serif
 tags: [water, hydration, dehydration, self help, water intake]
 
-excerpt: "But even after knowing how its necessary to drink water, almost 90% of us failed drink enough water. And not only miss the recomme water intake marke, we miss the recommended water intake by a big margin."
+excerpt: "But even after knowing why it's necessary to drink enough water, almost 90% of us fail to drink the recommended amount of water enough water. And not only we miss the recommended amoount of water intake, we miss it by a significant margin."
 
 header:
   image: /assets/images/post_images/drinking-water.jpg
@@ -22,9 +22,8 @@ Some of us might have read that we need water for all body function. It flushes 
 from the organs, takes nutrients to your cells, cushions the joints, and helps us digest
 the food we eat.  
 
-But even after knowing why it's necessary to drink enough water almost 90% of
-us failed drink the recommnened amount of water. And not only we miss the recommended amoount of water intake, we miss
-it by a big margin.  
+But even after knowing why it's necessary to drink enough water, almost 90% of
+us fail to drink the recommnened amount of water. And not only we miss the recommended amoount of water intake, we miss it by a significant margin.  
 
 **_So what is the problem? Why can't we drink enough water? Nobody says we don't eat enough food_**
 
