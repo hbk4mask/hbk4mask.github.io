@@ -46,9 +46,11 @@ Unlike water, this concept of stopping water intake is not applicable to food in
 
 The brain takes matters in its own hands and asks you to stop whatever you are doing that time and look for some beverage. Now this signal in which the brain asks you to drink water is not always clear enough to state that we need water. **Sometimes even though we are water deficient, we feel the craving to eat food instead of drinking water**.
 
-It can be a craving for fruit, desiring ice cream, or craving for a smoothie. All of these food items again contain mostly fluids. And drinking some non-water beverages can leave you feeling instantly hydrated, as well. But they are not the best source to quench your thirst. 
+It can be a craving for fruit, desiring ice cream, or craving for a smoothie. All of these food items again contain mostly fluids. And drinking some non-water beverages can leave you feeling instantly hydrated, as well. But they are not the best source to quench your thirst. So we are fooled by our desire to eat food when we should be drinking water. Hence it is good to drink water before you eat, so that you can separate the hunger from the thirst.
 
-encouraging animals to drink more water before sleeping to avoid becoming dehydrated during long periods of sleep
+encouraging animals to drink more water before sleeping to avoid becoming dehydrated during long periods of sleep.
+
+
 
 
 
