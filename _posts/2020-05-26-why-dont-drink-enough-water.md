@@ -25,7 +25,7 @@ the food we eat.
 But even after knowing why it's necessary to drink enough water, almost 90% of
 us fail to drink the recommnened amount of water. And not only we miss the recommended amoount of water intake, we miss it by a significant margin.  
 
-**_So what is the problem? Why can't we drink enough water? Nobody says we don't eat enough food_**
+**_So what is the problem? Why can't we drink enough water? Nobody says we don't eat enough food._**
 
 Well there is not a single answer.
 
@@ -43,9 +43,9 @@ Unlike water, this concept of stopping water intake is not applicable to food in
 >So when we feel thirsty or craving to drink beverage, it is already too late. You are already water deficient.
 
 The brain take matters in its own hands and ask you stop whatever you are doing that time and look for some beverage.
-Now this signal by brain to drink water is not always clear enough to state that we need water. **Sometimes even though we are thirsty inside, we feel the craving to eat food instead of drinking water**.
+Now this signal by brain to drink water is not always clear enough to state that we need water. **Sometimes even though we are water deficient, we feel the craving to eat food instead of drinking water**.
 
-It can be craving for a fruit, desering an ice cream, or craving for a smoothie. All of these food items again contains mostly fluids but not they are not the best source to quinch your thirst.
+It can be a craving for a fruit, desering an ice cream, or craving for a smoothie. All of these food items again contains mostly fluids but not they are not the best source to quinch your thirst.
 
 
 
