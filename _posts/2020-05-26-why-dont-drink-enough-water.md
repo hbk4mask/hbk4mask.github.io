@@ -35,7 +35,9 @@ Let's discuss another question of similar nature. Why don’t we go to the washr
 >Why we have to force ourself to drink more water than we feel like drinking it?  
 
 
-The answer is **we feel thirsty only when our brain realizes we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. So when you are dehydrated, you may gulp down water for several seconds, and you feel satisfied. An interesting point is when we start drinking water upon realizing that we are thirsty, our brain tells us when we stop guzzling down water.
+The answer is **we feel thirsty only when our brain realizes we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. So when you are dehydrated, you may gulp down water for several seconds, and you feel satisfied. 
+
+An interesting point is when we start drinking water upon realizing that we are thirsty, our brain tells us when we stop guzzling down water.
 
 > Although the water takes time to get absorbed from stomach to the bloodstream (it usually takes about 10 to 15 minutes), still brain somehow knows how much water you need.
   
