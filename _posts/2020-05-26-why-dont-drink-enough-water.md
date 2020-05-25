@@ -35,7 +35,9 @@ It’s similar to asking why don’t we go to the washroom 20 times a day. The a
 >Why we have to force ourself to drink more water than we feel like drinking it?  
 
 
-The answer is **we feel thirsty only when our brain realizes we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. An interesting point is when we start drinking water upon realizing that we are thirsty, our brain tells us when we stop guzzling down water. Although the water takes time to get absorbed from stomach to the bloodstream, still brain knows how much water you need.
+The answer is **we feel thirsty only when our brain realizes we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. So when you are dehydrated, you may gulp down water for several seconds, and you feel satisfied. An interesting point is when we start drinking water upon realizing that we are thirsty, our brain tells us when we stop guzzling down water.
+
+> Although the water takes time to get absorbed from stomach to the bloodstream (it usually takes about 10 to 15 minutes), still brain somehow knows how much water you need.
   
 
 Unlike water, this concept of stopping water intake is not applicable to food intake. Our brain tells us to stop eating a bit late as the brain registers food late as the stomach takes about 20 minutes to acknowledge the food. 	Late enough that we always tend to overeat. Lucky us.
@@ -44,7 +46,9 @@ Unlike water, this concept of stopping water intake is not applicable to food in
 
 The brain takes matters in its own hands and asks you to stop whatever you are doing that time and look for some beverage. Now this signal in which the brain asks you to drink water is not always clear enough to state that we need water. **Sometimes even though we are water deficient, we feel the craving to eat food instead of drinking water**.
 
-It can be a craving for fruit, desiring ice cream, or craving for a smoothie. All of these food items again contain mostly fluids but not they are not the best source to quench your thirst.
+It can be a craving for fruit, desiring ice cream, or craving for a smoothie. All of these food items again contain mostly fluids. And drinking some non-water beverages can leave you feeling instantly hydrated, as well. But they are not the best source to quench your thirst. 
+
+encouraging animals to drink more water before sleeping to avoid becoming dehydrated during long periods of sleep
 
 
 
