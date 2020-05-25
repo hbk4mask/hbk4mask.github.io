@@ -37,7 +37,7 @@ It's like asking why don't we go to washroom 20 times in day. The answer is agai
 >Why we have to force ourself to drink more water than we feel like drinking it?  
 
 
-The answer is **because we feel thirsy only when our brain realises we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. Interesting point is when we start drinking water our brain tells us when stop guzzling down water. Altough the water takes time get absorbed from stomach to blood stream, still brain knows how much water to drink.
+The answer is **because we feel thirsy only when our brain realises we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. Interesting point is when we start drinking water our brain tells us when stop guzzling down water. Altough the water takes time get absorbed from stomach to blood stream, still brain knows how much water to drink.  
 
 Unlike water, this concept of stopping water intake is not applicable to food. Our brain tells us to stop eating bit late. Late enough that we overeat. Lucky us.
 
