@@ -38,7 +38,7 @@ It's similar to asking why don't we go to washroom 20 times in day. The answer i
 
 The answer is **because we feel thirsty only when our brain realises we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. Interesting point is when we start drinking water upon realising that we are thirsty, our brain tells us when stop guzzling down water. Altough the water takes time get absorbed from stomach to blood stream, still brain knows how much water you need.  
 
-Unlike water, this concept of stopping water intake is not applicable to food intake. Our brain tells us to stop eating bit late as brain realise it bit late itself. Late enough that we always tend to overeat. Lucky us.
+Unlike water, this concept of stopping water intake is not applicable to food intake. Our brain tells us to stop eating bit late as brain register food late as stomach takes about 20 minutes to acknowledge the food. Late enough that we always tend to overeat. Lucky us.
 
 >So when we feel thirsty or craving to drink beverage, it is already too late. You are already water deficient.
 
