@@ -58,7 +58,7 @@ It is clear that we need to keep ourself hydrated through out the day without be
 
 >Promixity to water source can effect your water intake
 
-Wait a minute ! Promixity to water ? We have water in our houses, in our workplaces, schools. We are always close to water source. But not close enough. How many times 
+Wait a minute! Promixity to water? We have water in our houses, in our workplaces, schools. We are always close to water source. But not close enough. How many times you felt lazy to get up and reach the fridge in kitchen or living area?
 
 
 
