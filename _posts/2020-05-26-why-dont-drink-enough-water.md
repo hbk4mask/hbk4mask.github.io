@@ -52,9 +52,13 @@ It can be a craving for fruit, desiring ice cream, or craving for a smoothie. Al
 
 So we are fooled by our desire to eat food when we should be drinking water. Hence it is good to drink water before you eat, so that you can separate the hunger from the thirst.
 
-Second reason behing drinking less water is proximity to water. 
-
 encouraging animals to drink more water before sleeping to avoid becoming dehydrated during long periods of sleep.
+
+It is clear that we need to keep ourself hydrated through out the day without being reminded by our brain to do so. One trick can helo you tremendously to reach the recommended amount of water intake. Proximity to water.
+
+>Promixity to water source can really effect your water intake
+
+Wait a minute ! Promixity to water ? We have water in our houses, in our workplaces, schools. We are always close to water source. But not close enough. How many times 
 
 
 
