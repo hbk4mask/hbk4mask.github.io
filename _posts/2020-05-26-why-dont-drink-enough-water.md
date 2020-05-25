@@ -17,7 +17,7 @@ categories:
 ---
 
 
-We all hear and read often that why it’s so important to drink an adequate amount of water. Some of us might have read that we need water for all body functions. It flushes toxins from the organs, takes nutrients to your cells, cushions the joints, and helps us digest the food we eat.  
+We all hear and read often that it’s very important to drink an adequate amount of water for proper functioning of body. Water is essential to body. It flushes toxins from the organs, takes nutrients to the cells, cushions the joints, and helps us digest the food we eat.  
   
 
 But even after knowing why it’s necessary to drink enough water, almost 90% of us fail to drink the recommended amount of water. And not only we miss the recommended amount of water intake, we miss it by a significant margin.
