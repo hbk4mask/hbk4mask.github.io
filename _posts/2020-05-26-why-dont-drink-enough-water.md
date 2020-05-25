@@ -44,7 +44,9 @@ Unlike water, this concept of stopping water intake is not applicable to food. O
 >So when we feel thirsty or craving to drink beverage, it is already too late. You are already water deficient.
 
 The brain take matters in its own hands and ask you stop whatever you are doing that time and look for some beverage.
-Now this signal by brain to drink water is not always clear enough to state that we need water. 
+Now this signal by brain to drink water is not always clear enough to state that we need water. Sometimes we feel craving for food instead of fluids.
+
+It can be craving for a fruit, desering an ice cream, or craving for a smoothie. All of these food items again contains mostly fluids but not they are not the best source to quinch your thirst.
 
 
 
