@@ -60,7 +60,9 @@ So we are fooled by our desire to eat food when we should be drinking water. Hen
 
 Wait a minute! Proximity to water? We have water in our houses, in our workplaces, schools, eateries. We are always close to water sources. But not close enough. How many times did you felt lazy to get up and reach the fridge in the kitchen or living area? 
 
-Although it might not be a significant factor for all of us, but for some of us the laziness bug kicks in and it decides how many times you will refill your bottle or just take glass of water. That is why you see athletes using 5 litre or 1 gallon water bottle to carry water, making it easier for them to stay hydrated throughout the day.
+Although it might not be a significant factor for all of us, but for some of us the laziness bug kicks in and it decides how many times you will refill your bottle or just take glass of water.
+
+>That is why you see athletes using 5 litre or 1 gallon water bottle to carry water, making it easier for them to stay hydrated throughout the day.
 
 Keep these two causes of less water intake in your mind and try to drink water before feeling extremely thirsty.
 
