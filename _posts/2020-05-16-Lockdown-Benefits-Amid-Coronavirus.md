@@ -1,5 +1,5 @@
 ---
-title: "Why forced Work From Home in lockdown is the best thing happened"
+title: "Why forced Remote Work is the best thing happened due to Covid-19"
 layout: single
 classes: wide
 font: serif
