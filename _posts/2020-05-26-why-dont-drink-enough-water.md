@@ -56,7 +56,18 @@ So we are fooled by our desire to eat food when we should be drinking water. Hen
 
 >Promixity to water source can effect your frequency of water intake
 
-Wait a minute! Promixity to water? We have water in our houses, in our workplaces, schools, eateries. We are always close to water source. But not close enough. How many times you felt lazy to get up and reach the fridge in kitchen or living area?
+Wait a minute! Proximity to water? We have water in our houses, in our workplaces, schools, eateries. We are always close to water sources. But not close enough. How many times did you felt lazy to get up and reach the fridge in the kitchen or living area? 
+
+Although it might not be the case for all of us but it is definitly a factor in deciding how many times you will refill your bottle or just take glass of water.That is why some athletes use 5 liter or 1 gallon water bottle and carry it around, making it easier stay hydrated throughout the day.
+
+Keep these two causes of less water intake in your mind and try to drink water before feeling extremely thirsty.
+
+
+
+
+
+
+
 
 
 
