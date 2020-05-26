@@ -279,6 +279,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
+      paginate: 1
 
 collections:
   articles:
