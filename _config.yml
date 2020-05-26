@@ -274,7 +274,7 @@ defaults:
  - scope:
       path: ""
       type: articles
-      values:
+    values:
       layout: single
       author_profile: false
       share: false
