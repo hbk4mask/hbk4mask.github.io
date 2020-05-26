@@ -5,4 +5,4 @@ main:
   - title: "Youtube"
     url: https://www.youtube.com/channel/UChqgS-0NJMnEX5XC1wnUFoA
   - title: "Articles"
-    url: /articles/  
+    #url: /articles/  
