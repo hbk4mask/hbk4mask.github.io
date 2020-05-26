@@ -271,3 +271,17 @@ defaults:
       share: true
       related: true
       entries_layout: grid
+ - scope:
+      path: ""
+      type: articles
+      values:
+      layout: single
+      author_profile: false
+      share: false
+
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path/
+
+
