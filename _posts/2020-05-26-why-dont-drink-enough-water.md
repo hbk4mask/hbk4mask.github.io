@@ -1,5 +1,5 @@
 ---
-title: "Why we don't drink enough water?"
+title: "Why we struggle to drink enough water?"
 layout: single
 classes: wide
 font: serif
