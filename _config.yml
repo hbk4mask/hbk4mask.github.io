@@ -103,7 +103,7 @@ author:
       url: "mailto:amankaushikbtw@gmail.com"
     - label: "PodcastSite"
       icon:  "fas fa-fw fa-link"
-      url:   "https://amankaushikpod.blogspot.com/"
+      # url:   "https://amankaushikpod.blogspot.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AmanKaushikBTW"
