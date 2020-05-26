@@ -1,8 +1,8 @@
 # main links
 main:
+  - title: "Home"
+    url: http://www.amankaushik.blog
   - title: "Youtube"
     url: https://www.youtube.com/channel/UChqgS-0NJMnEX5XC1wnUFoA
   - title: "Articles"
     url: /articles/  
-  - title: "Home"
-    url: /_posts/  
