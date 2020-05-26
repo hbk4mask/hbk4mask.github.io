@@ -1,5 +1,5 @@
 ---
-title: "Why forced Work From Home is the best thing that happened due to Coronavirus."
+title: "Why forced Work From Home in lockdown is the best thing happened"
 layout: single
 classes: wide
 font: serif
