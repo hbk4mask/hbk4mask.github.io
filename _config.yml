@@ -95,8 +95,7 @@ analytics:
 author:
   name             : "Aman Kaushik"
   avatar           : /assets/images/post_images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Podcaster"
-  location         : "India"
+  bio              : "Podcaster"  
   email            :
   links:
     - label: "Email"
