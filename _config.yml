@@ -271,6 +271,7 @@ defaults:
       share: true
       related: true
       entries_layout: grid
+  #articles    
   - scope:
       path: ""
       type: posts
