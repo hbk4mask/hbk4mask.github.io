@@ -19,7 +19,7 @@ categories:
 ---
 
 
-You all must heard or read at some point of your life about drinking certain amount of water for proper functioning of your body. Some of you also know water flushes toxins from the organs, takes nutrients to the cells, cushions the joints, and helps us digest the food we eat.  
+You all must heard or read almost every month about drinking certain amount of water for proper functioning of your body. Some of you also know water flushes toxins from the organs, takes nutrients to the cells, cushions the joints, and helps us digest the food we eat.  
   
 
 Proper amount of water intake is essential for our overall well being. But even after knowing how it’s necessary to drink enough water, almost 90% of us fail to drink the recommended amount of water. And not only we miss the recommended amount of water intake, we miss it by a significant margin.
@@ -29,7 +29,7 @@ Proper amount of water intake is essential for our overall well being. But even 
 
 Well there is a reason which all of you will agree with.
 
-The main reason we don't drink enough water is that **we don’t get the urge to drink the recommended amount of water. We only drink water when we feel thirsty**. We only drink water when we feel thirsty. 
+The main reason we don't drink enough water is that **we don’t get the urge to drink the recommended amount of water. We only drink water when we feel thirsty**.
 
 Let's discuss another question of similar nature. Why don’t we go to the washroom 20 times a day. The answer is again similar. We don’t go to the washroom 20 times a day because we don’t get the urge to use the washroom that many times. But doctors don’t give us suggestions to use the washroom 20 times in a day. At least I am not aware of it. So how come drinking water is different?
 
@@ -37,9 +37,9 @@ Let's discuss another question of similar nature. Why don’t we go to the washr
 >Why we have to force ourself to drink more water than we feel like drinking it?  
 
 
-The answer is **we feel thirsty only when our brain realizes we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. So when you are dehydrated, you may gulp down water for several seconds, and you feel satisfied. 
+The answer is **we feel thirsty only when our brain realizes we are water deficient**. We crave for water only when your brain gets the stats that you are running low on water. So when you are dehydrated, you may gulp down water for several seconds before you feel satisfied. 
 
-An interesting point is when we start drinking water upon realizing that we are thirsty, our brain tells us when we stop guzzling down water.
+An interesting point is when we start drinking water upon realizing that we are thirsty, our brain tells us when we should stop guzzling down water.
 
 > Although the water takes time to get absorbed from stomach to the bloodstream (it usually takes about 10 to 15 minutes), still brain somehow knows how much water you need.
   
