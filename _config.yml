@@ -130,16 +130,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-   - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      # url: "https://www.youtube.com/channel/UChqgS-0NJMnEX5XC1wnUFoA"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/AmanKaushikBTW"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/amankaushikbtw/"
-
 
 # Reading Files
 include:
