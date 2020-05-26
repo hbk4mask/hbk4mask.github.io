@@ -273,7 +273,7 @@ defaults:
       entries_layout: grid
   - scope:
       path: ""
-      type: articles
+      type: posts
     values:
       layout: single
       author_profile: false
