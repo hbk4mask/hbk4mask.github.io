@@ -19,17 +19,17 @@ categories:
 ---
 
 
-We all hear and read often that it’s very important to drink an adequate amount of water for proper functioning of body. Water is essential to body. It flushes toxins from the organs, takes nutrients to the cells, cushions the joints, and helps us digest the food we eat.  
+You all must heard or read at some point of your life about drinking certain amount of water for proper functioning of your body. Some of you also know water flushes toxins from the organs, takes nutrients to the cells, cushions the joints, and helps us digest the food we eat.  
   
 
-But even after knowing why it’s necessary to drink enough water, almost 90% of us fail to drink the recommended amount of water. And not only we miss the recommended amount of water intake, we miss it by a significant margin.
+Proper amount of water intake is essential for our overall well being. But even after knowing how it’s necessary to drink enough water, almost 90% of us fail to drink the recommended amount of water. And not only we miss the recommended amount of water intake, we miss it by a significant margin.
  
 
 **_So what is the problem? Why can't we drink enough water? Nobody says we don't eat enough food._**
 
-Well there is an answer.
+Well there is a reason which all of you will agree with.
 
-The main reason is that we don't drink enough water is that **we don’t get the urge to drink the recommended amount of water. We only drink water when we feel thirsty**. We only drink water when we feel thirsty. 
+The main reason we don't drink enough water is that **we don’t get the urge to drink the recommended amount of water. We only drink water when we feel thirsty**. We only drink water when we feel thirsty. 
 
 Let's discuss another question of similar nature. Why don’t we go to the washroom 20 times a day. The answer is again similar. We don’t go to the washroom 20 times a day because we don’t get the urge to use the washroom that many times. But doctors don’t give us suggestions to use the washroom 20 times in a day. At least I am not aware of it. So how come drinking water is different?
 
