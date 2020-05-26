@@ -271,7 +271,7 @@ defaults:
       share: true
       related: true
       entries_layout: grid
- - scope:
+  - scope:
       path: ""
       type: articles
     values:
