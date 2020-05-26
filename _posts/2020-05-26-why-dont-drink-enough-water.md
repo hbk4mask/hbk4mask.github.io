@@ -10,6 +10,8 @@ excerpt: "But even after knowing why it's necessary to drink enough water, almos
 header:
   image: /assets/images/post_images/drinking-water.jpg
   image_description: "water"
+  teaser: /assets/images/post_images/drinking-water.jpg
+
   
 permalink:
 published: true
@@ -61,6 +63,8 @@ Wait a minute! Proximity to water? We have water in our houses, in our workplace
 Although it might not be the case for all of us but it is definitly a factor in deciding how many times you will refill your bottle or just take glass of water.That is why some athletes use 5 liter or 1 gallon water bottle and carry it around, making it easier stay hydrated throughout the day.
 
 Keep these two causes of less water intake in your mind and try to drink water before feeling extremely thirsty.
+
+
 
 
 

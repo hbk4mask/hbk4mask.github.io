@@ -9,6 +9,7 @@ excerpt: "Due to the recent coronavirus outbreak, the government has instructed 
 
 header:
   image: /assets/images/post_images/corona.jpg
+  teaser: /assets/images/post_images/corona.jpg
   image_description: "high resolution view of coronavirus"
   
 permalink:
