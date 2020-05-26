@@ -5,7 +5,7 @@ classes: wide
 font: serif
 tags: [water, hydration, dehydration, self help, water intake, drinking water]
 
-excerpt: "But even after knowing why it's necessary to drink enough water, almost 90% of us fail to drink the recommended amount of water enough water. And not only we miss the recommended amoount of water intake, we miss it by a significant margin."
+excerpt: "But even after knowing why it's necessary to drink enough water, almost 90% of us fail to drink the recommended amount of water. And not only we miss the recommended amount of water intake, we miss it by a significant margin."
 
 header:
   image: /assets/images/post_images/drinking-water.jpg
