@@ -52,9 +52,9 @@ It can be a craving for fruit, desiring ice cream, or craving for a smoothie. Al
 
 So we are fooled by our desire to eat food when we should be drinking water. Hence it is good to drink water before you eat, so that you can separate the hunger from the thirst.
 
-It is clear that we need to keep ourself hydrated through out the day without being reminded by our brain to do so. One trick can helo you tremendously to reach the recommended amount of water intake. Proximity to water.
+**It is clear that we need to keep ourself hydrated through out the day without being reminded by our brain to do so**. One trick can helo you tremendously to reach the recommended amount of water intake. Proximity to water.
 
->Promixity to water source can effect your water intake
+>Promixity to water source can effect your frequency of water intake
 
 Wait a minute! Promixity to water? We have water in our houses, in our workplaces, schools, eateries. We are always close to water source. But not close enough. How many times you felt lazy to get up and reach the fridge in kitchen or living area?
 
