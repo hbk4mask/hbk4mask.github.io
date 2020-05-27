@@ -5,7 +5,7 @@ classes: wide
 font: serif
 tags: [coronavirus, lockdown, covid19, new normal, indian lockdown]
 
-excerpt: "Due to the recent coronavirus outbreak, the government has instructed to close shopping malls, movie theaters, schools, gyms. The airline and tourism industry is badly hit. Major sports leagues have canceled the season."
+excerpt: "Due to the recent coronavirus outbreak, shopping malls, movie theaters, schools and gyms are closed. But there is a good news."
 
 header:
   image: /assets/images/post_images/corona.jpg
