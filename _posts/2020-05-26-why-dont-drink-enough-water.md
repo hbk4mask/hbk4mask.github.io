@@ -50,15 +50,15 @@ Unlike water, this concept of stopping water intake is not applicable to food in
 
 The brain takes matters in its own hands and asks you to stop whatever you are doing that time and look for some beverage. Now this signal in which the brain asks you to drink water is not always clear enough to state that we need water. **Sometimes even though we are water deficient, we feel the craving to eat food instead of drinking water**.
 
-It can be a craving for fruit, desiring ice cream, or craving for a smoothie. All of these food items again contain mostly fluids. And drinking some non-water beverages can leave you feeling instantly hydrated, as well. But they are not the best source to quench your thirst. 
+It can be a craving for a fruit, desiring ice cream, or craving for a smoothie. All of these food items again contain mostly fluids. And drinking some non-water beverages can leave you feeling instantly hydrated, as well. But they are not the best source to quench your thirst. 
 
 So we are fooled by our desire to eat food when we should be drinking water. Hence it is good to drink water before you eat, so that you can separate the hunger from the thirst.
 
-**It is clear that we need to keep ourself hydrated through out the day without being reminded by our brain to do so**. One trick can helo you tremendously to reach the recommended amount of water intake. Proximity to water.
+**It is clear that we need to keep ourself hydrated through out the day without being reminded by our brain to do so**. One thing can help you tremendously to reach the recommended amount of water intake. Proximity to water.
 
 >Promixity to water source can effect your frequency of water intake
 
-Wait a minute! Proximity to water? We have water in our houses, in our workplaces, schools, eateries. We are always close to water sources. But not close enough. How many times did you felt lazy to get up and reach the fridge in the kitchen or living area? 
+Wait a minute! Proximity to water? We have water in our houses, in our workplaces, schools, eateries. We are always close to water sources. But not close enough. How many times did you feel lazy to get up and reach the fridge in the kitchen or living area? 
 
 Although it might not be a significant factor for all of us, but for some of us the laziness bug kicks in and it decides how many times you will refill your bottle or just take glass of water.
 
