@@ -31,7 +31,7 @@ As per Merriam Webster dictionary, Definition of news:
 News channels focus on the third definition above everything else. 
 
 
-### News channels makes you stressed out and anxious ###
+### News Channels Makes You Stressed Out And Anxious ###
 
 The way news channels portray the negative news is something worth paying attention to. <em>**News media love negative news and they love exaggerating the negative news to the epic proportions to garner more viewers**</em>. But this distortion has consequences.
 
@@ -56,7 +56,7 @@ So do news channels are aware of this? Don’t they know they can do better than
 
 
 
-### News channels are biased ###
+### News Channels Are Extremly Biased ###
 
 As news journalist what should be your job? To tell the news and to be unbiased while doing so.
 But in current times news channels are rarely unbiased. Either they are pro subject or anti subject. Either they are pro government or anti-government. 
@@ -67,7 +67,7 @@ People of all political orientation has found their favorite news channel. Right
 
 
 
-### News Belittle Your Own Ambitions ###
+### It Belittle Your Own Ambitions ###
 
 Well if you want to work on your goals, watching news channels is something you should avoid. Repeated hype mongering happening on news channels messes up your ability to focus on things around you. News channels want you to care about news, they want you to think about it. 
 
@@ -81,7 +81,7 @@ Husband watching news channel and telling wife “you are talking about one plan
 
 
  
-### Repetitions of content ### 
+### Repetitions Of Content Again and Again ### 
 
 There is always something new happening in the world we live in. And we don't have to know about all of it. For instance, if there is a robbery happened in luxurious closed gated community. It can be a news for people in its locailty but not for you living 1000 miles away from it.
 
@@ -90,4 +90,4 @@ If a cat got lost and returns home after a month its not a news. Other thing is 
 Truth is there is not always a worthy content to show and in these times news channels picks the same old content and their favorite recipe of targeting the emotions. 
 
 
->**News media has forgotton the unspoken rules of news coverage and people have no other option other than to be served with this low quality news/garbage.** 
+>**News media has forgotton the fundamental rules of news coverage and people have no other option other than to be served with this low quality news or in other words garbage.** 
