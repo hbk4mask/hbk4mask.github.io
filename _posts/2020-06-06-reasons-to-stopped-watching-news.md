@@ -19,12 +19,12 @@ categories:
 
 Every time you open news channel, you see world is dealing with a new disaster, a war happening somewhere killing innocent people, crime rates spiking, pollution level at all time high, terrorism spreading, poverty not ending, oppression, crisis etc.
 
-Now there is nothing wrong in covering news, but giving every news the label of a heart wrenching tragedy we should be paying attention to is just blatantly wrong. News media has forgotton the unspoken news of news coverage and people have no other option other than to be served with t. Before we go further and discuss why you should stop watching news channels, let’s remind ourselves what is the meaning of news.
+Now there is nothing wrong in covering news, but giving every news the label of a heart wrenching tragedy we should be paying attention to is just blatantly wrong. Before we go further and discuss why you should stop watching news channels, let’s remind ourselves what is the meaning of news.
 
 As per Merriam Webster dictionary, Definition of news: 
 
-a: report of recent events
-b: previously unknown information
+a: report of recent events 
+b: previously unknown information 
 c: something having a specified influence or effect
 
 
@@ -81,4 +81,4 @@ Husband watching news channel and telling wife “you are talking about one plan
 
 
 
-
+>News media has forgotton the unspoken rules of news coverage and people have no other option other than to be served with it low quality. 
