@@ -59,20 +59,19 @@ So do news channels are aware of this? Don’t they know they can do better than
 ### News channels are biased ###
 
 As news journalist what should be your job. To tell the news and to be unbiased while doing so.
+But in current times news channels are rarely unbiased. Either they are pro subject or anti subject. Either they are pro government or anti-government. 
 
-But in current times news anchors are always one sided. Either they are pro subject or anti subject. For instance Pro government or anti-government. Now they pick a side so that people watching the news come aboard and feel validation in their thinking. So viewers can feel connected. 
+Most news channels pick a side, and they do so in order to garNer viewership from people who are on same side. When you are of certain opinion on some political topic and you see news anchor is also echoing your emotions you come aboard and feel validation in your opinion and thinking. You as viewers can feel connected to the channel. 
 
-People of all political orientation has found their favorite news channel. Right wing people found pro right wing news channel, left wing people watch theirs. Pro government people watch pro-government channel and anti government people watch anti government new channels.
+People of all political orientation has found their favorite news channel. Right wing people found pro right wing news channel, left wing people watch left-wing news channel. Pro government people watch pro-government channel and anti-government people watch anti-government new channels.And by doing this the truth never reaches you.
 
 
 
 ### News Belittle Your Own Ambitions ###
 
-Well if you want peace of mind you can do a lot better. Repeated hype mongering screws up your mind. It emotionally drains you. News channels want you to care about news, they want you to think about it. 
+Well if you want to work on your goals, watching news channels is something you should avoid. Repeated hype mongering happening on news channels messes up your ability to focus on things around you. News channels want you to care about news, they want you to think about it. 
 
-They want to you worry about the issues in the world not just to be aware about it, so you will be tempted watching more news, .
-
-And that is not good for you. As Naval Ravikant said:
+They want to you worry about the issues in the world and not just to be aware about it, so you will be tempted watching more news, and that is not good for you. As Naval Ravikant said:
 
 >“Stay away from people who are world-weary and belittle your ambitions.”
 
