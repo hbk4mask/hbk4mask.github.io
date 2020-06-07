@@ -39,7 +39,7 @@ If you have fitness watch you can confirm it yourself. Watch your heart rate ris
 
 A recent survey from the American Psychological Association found More than half of Americans say the news causes them stress, and many report feeling anxiety, fatigue or sleep loss as a result.
 
->Whether or not the world really is getting worse, the way news channels shows it, watching it will make us think that it is. The nature of news likely distorts people’s view of the world
+>**Whether or not the world really is getting worse, the way news channels shows it, watching it will make us think that it is. The nature of news likely distorts people’s view of the world.**
 
 
 ### News Watching is Emotionally Draining ###
