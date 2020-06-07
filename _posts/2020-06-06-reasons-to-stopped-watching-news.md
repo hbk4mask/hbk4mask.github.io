@@ -44,13 +44,15 @@ A recent survey from the American Psychological Association found More than half
 
 ### News Watching is Emotionally Draining ###
 
-News channels want to play news which effect viewers emotionally. The emotion can be vary from inciting patriotism or hatred towards people responsible for an incident, sympathy for a cause. News media will try to get news which will invoke some emotion which can keep you glued to the channel. 
+News channels want to play news which effect viewers emotionally. The emotion can vary from inciting patriotism or hatred towards people responsible for an incident, sympathy for a cause. News media will try to get news which will invoke some emotion which can keep you glued to the channel. 
 
-Watching the news which evokes your emotions makes you mentally drained. You will feel anxious inside without even realizing it.  If you are already being robbed of your peace of mind silenty, then even a little bit of uncomfortable time will make you loose your mind.
+Watching the news which invokes your emotions makes you mentally drained. You will feel anxious inside without even realizing it.  If you are already being robbed of your peace of mind silenty, then even a little bit of uncomfortable time will make you loose your mind.
+
+ >**Inciting public sentiment over sensitive issues, over and over is the recipe most news channels never get bored of using.** 
 
 Now why do you watch news channel? To know what’s happening around. And when you switch to a News channel you see three grown up men yelling at each other, over speaking on each other. And even if you get an idea of what are fighting about you can’t continue watching it. Insulting the guest news channel invites and pay is normal. 
 
- >**Inciting public sentiment over sensitive issues, over and over again is the recipe most news channels never get bored of.** 
+
 
 So do news channels are aware of this? Don’t they know they can do better than this? Of course they do. But doing won’t keep the people glued to the channel.
 
@@ -58,7 +60,7 @@ So do news channels are aware of this? Don’t they know they can do better than
 
 ### News Channels Are Extremly Biased ###
 
-As news journalist what should be your job? To tell the news and to be unbiased while doing so.
+As news journalist what should be your job? To tell the news as it is and to be unbiased while doing so.
 But in current times news channels are rarely unbiased. Either they are pro subject or anti subject. Either they are pro government or anti-government. 
 
 Most news channels pick a side, and they do so in order to garner viewership from people who are on same side. When you are of certain opinion on some political topic and you see news anchor is also echoing your emotions you come aboard and feel validation in your opinion and thinking. You as viewers can feel connected to the channel. 
