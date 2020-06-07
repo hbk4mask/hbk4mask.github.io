@@ -47,8 +47,9 @@ Watching some news which evokes your emotions makes you mentally drained. You fe
 
 They want to play news which effect viewers emotionally. The emotion can be vary from inciting patriotism or hatred towards people responsible for an incident, sympathy for a cause. News media will try to get news which will invoke any emotion which can keep you glued to the channel. 
 
- Now why do you open news channel? To know what’s happening around. And when you switch to a News channel you see three grown up men yelling at each other, over speaking on each other. And even if you get an idea of what are fighting about you can’t continue watching it. Insulting the guest they invited and paid is normal. Inciting public sentiment over sensitive issues, over and over again is the recipe most news channels never get bored of. 
+ Now why do you open news channel? To know what’s happening around. And when you switch to a News channel you see three grown up men yelling at each other, over speaking on each other. And even if you get an idea of what are fighting about you can’t continue watching it. Insulting the guest news channel invites and pay is normal. 
 
+ >Inciting public sentiment over sensitive issues, over and over again is the recipe most news channels never get bored of. 
 
 So do news channels are aware of this? Don’t they know they can do better than this? Of course they do. But doing won’t keep the people glued to the channel.
 
