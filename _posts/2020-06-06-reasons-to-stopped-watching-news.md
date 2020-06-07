@@ -46,7 +46,7 @@ A recent survey from the American Psychological Association found More than half
 
 News channels want to play news which effect viewers emotionally. The emotion can be vary from inciting patriotism or hatred towards people responsible for an incident, sympathy for a cause. News media will try to get news which will invoke some emotion which can keep you glued to the channel. 
 
-Watching the news which evokes your emotions makes you mentally drained. You will feel be feeling anxious inside without even realizing it.  If you are already being robbed of your peace of mind silenty, then even a little bit of uncomfortable time will make you loose your mind.
+Watching the news which evokes your emotions makes you mentally drained. You will feel anxious inside without even realizing it.  If you are already being robbed of your peace of mind silenty, then even a little bit of uncomfortable time will make you loose your mind.
 
 Now why do you watch news channel? To know what’s happening around. And when you switch to a News channel you see three grown up men yelling at each other, over speaking on each other. And even if you get an idea of what are fighting about you can’t continue watching it. Insulting the guest news channel invites and pay is normal. 
 
