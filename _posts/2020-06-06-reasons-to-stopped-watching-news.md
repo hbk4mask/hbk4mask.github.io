@@ -83,7 +83,7 @@ Husband watching news channel and telling wife “you are talking about one plan
 
 
  
-### Repetitions Of Content Again and Again ### 
+### News Selection & Repetitions Of Content ### 
 
 There is always something new happening in the world we live in. And we don't have to know about all of it. For instance, if there is a robbery happened in luxurious closed gated community. It can be a news for people in its locailty but not for you living 1000 miles away from it.
 
