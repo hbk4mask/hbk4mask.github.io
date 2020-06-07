@@ -63,7 +63,7 @@ So do news channels are aware of this? Don’t they know they can do better than
 As news journalist what should be your job? To tell the news as it is and to be unbiased while doing so.
 But in current times news channels are rarely unbiased. Either they are pro subject or anti subject. Either they are pro-government or anti-government. 
 
-Most news channels pick a side, and they do so in order to garner viewership from people who are on same side. When you are of certain opinion on some political topic and you see news anchor is also echoing your emotions you come aboard and feel validation in your opinion and thinking. You as viewers can feel connected to the channel. 
+<em>**Most news channels pick a side, and they do so in order to garner viewership from people who are on same side.</em>** When you are of certain opinion on some political topic and you see news anchor is also echoing your emotions you come aboard and feel validation in your opinion and thinking. You as viewers can feel connected to the channel. 
 
 People of all political orientation has found their favorite news channel. Right wing people found right-wing news channel, left-wing people watch left-wing news channel. Pro-government people watch pro-government news channel and anti-government people watch anti-government news channels. And by doing this the truth never reaches you.
 
