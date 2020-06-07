@@ -23,16 +23,16 @@ Now there is nothing wrong in covering news, but giving every news the label of 
 
 As per Merriam Webster dictionary, Definition of news: 
 
-a: report of recent events 
-b: previously unknown information 
-c: something having a specified influence or effect
+a: report of recent events <br>
+b: previously unknown information <br>
+c: something having a specified influence or effect<br>
 
 
 News channels focus on the third definition above everything else. 
 
 ### News channels makes you stressed out and anxious ###
 
-The way news channels portray the negative news is something worth paying attention to. **News media love negative news and they love exaggerating the negative news to the epic proportions to garner more viewers**. But this distortion has consequences.
+The way news channels portray the negative news is something worth paying attention to. <em>**News media love negative news and they love exaggerating the negative news to the epic proportions to garner more viewers**</em>. But this distortion has consequences.
 
 If you have fitness watch you can confirm it yourself. Watch you your heart rate rises after few minutes of watching your favorite news channel.
 
