@@ -30,9 +30,9 @@ c: something having a specified influence or effect
 
 News channels focus on the third definition above everything else. 
 
-**News channels makes you stressed out and anxious**
+###News channels makes you stressed out and anxious###
 
-The way news channels portray the negative news is something worth paying attention to. News media love negative news and they love exaggerating the negative news to the epic proportions to garner more viewers. But this distortion has consequences.
+The way news channels portray the negative news is something worth paying attention to. **News media love negative news and they love exaggerating the negative news to the epic proportions to garner more viewers**. But this distortion has consequences.
 
 If you have fitness watch you can confirm it yourself. Watch you your heart rate rises after few minutes of watching your favorite news channel.
 
