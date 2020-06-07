@@ -1,5 +1,5 @@
 ---
-title: "5 Reasons Why You Should Stop Watching News ?"
+title: "5 Reasons Why You Should Stop Watching News"
 layout: single
 classes: wide
 font: serif
@@ -19,10 +19,9 @@ categories:
 
 Every time you open news channel, you see world is dealing with a new disaster, a war happening somewhere killing innocent people, crime rates spiking, pollution level at all time high, terrorism spreading, poverty not ending, oppression, crisis etc.
 
-Few years back a kid fell into a boring well in a small town, in Haryana, India. It was tragic incident. No doubt about it. And news channels knew it better than anyone else. Because they decided to cover this news for next 2 days straight.
+Few years back a kid fell into a borewell in a small town, India. It was tragic incident. No doubt about it. And news channels knew it better than anyone else. Because they decided to cover this news for next 2 days straight.
 
-Now there is nothing wrong in covering a news, but giving every news as the next catastrophe is just blatantly wrong.
-Before we go further and discuss why you should stop watching news channels, let’s remind ourselves what is the meaning of news.
+Now there is nothing wrong in covering a news, but giving every news the label of a tragedy we should be paying attention is just blatantly wrong.Before we go further and discuss why you should stop watching news channels, let’s remind ourselves what is the meaning of news.
 
 As per Merriam Webster dictionary, Definition of news: 
 a: report of recent events
@@ -39,10 +38,10 @@ The way news channels portray the negative news is something worth paying attent
 And you will carry the mood for somtime. If you have fitness watch you can confirm it yourself. Watch you your heart rate rises after few minutes of watching your favorite news channel.
 A recent survey from the American Psychological Association found More than half of Americans say the news causes them stress, and many report feeling anxiety, fatigue or sleep loss as a result, the survey shows
 
-Whether or not the world really is getting worse, the way news channels shows it, watching it will make us think that it is. The nature of news likely distorts people’s view of the world
+>Whether or not the world really is getting worse, the way news channels shows it, watching it will make us think that it is. The nature of news likely distorts people’s view of the world
 
 
-**Emotionally draining**
+**News Watching is Emotionally Draining**
 
 Watching some news which evokes your emotions makes you mentally drained. You feel will be feeling anxious inside without even realizing it.
 
@@ -65,7 +64,7 @@ People of all political orientation has found their favorite news channel. Right
 
 
 
-**News belittle your own ambitions**
+**News Belittle Your Own Ambitions**
 
 Well if you want peace of mind you can do a lot better. Repeated hype mongering screws up your mind. It emotionally drains you. News channels want you to care about news, they want you to think about it. 
 
