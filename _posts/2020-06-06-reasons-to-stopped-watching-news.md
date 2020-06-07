@@ -23,9 +23,9 @@ Now there is nothing wrong in covering news, but giving every news the label of 
 
 As per Merriam Webster dictionary, Definition of news: 
 
-a: report of recent events <br>
-b: previously unknown information <br>
-c: something having a specified influence or effect<br>
+<em>a: report of recent events </em><br>
+<em>b: previously unknown information </em><br>
+<em>c: something having a specified influence or effect</em><br>
 
 
 News channels focus on the third definition above everything else. 
@@ -43,11 +43,12 @@ A recent survey from the American Psychological Association found More than half
 
 **News Watching is Emotionally Draining**
 
-Watching some news which evokes your emotions makes you mentally drained. You feel will be feeling anxious inside without even realizing it.
 
-They want to play news which effect viewers emotionally. The emotion can be vary from inciting patriotism or hatred towards people responsible for an incident, sympathy for a cause. News media will try to get news which will invoke any emotion which can keep you glued to the channel. 
+News channels want to play news which effect viewers emotionally. The emotion can be vary from inciting patriotism or hatred towards people responsible for an incident, sympathy for a cause. News media will try to get news which will invoke any emotion which can keep you glued to the channel. 
 
- Now why do you open news channel? To know what’s happening around. And when you switch to a News channel you see three grown up men yelling at each other, over speaking on each other. And even if you get an idea of what are fighting about you can’t continue watching it. Insulting the guest news channel invites and pay is normal. 
+Watching the news which evokes your emotions makes you mentally drained. You will feel be feeling anxious inside without even realizing it.  If you are already being robbed of your peace of mind silenty, then even a little bit of uncomfortable time will make you loose your mind.
+
+Now why do you open news channel? To know what’s happening around. And when you switch to a News channel you see three grown up men yelling at each other, over speaking on each other. And even if you get an idea of what are fighting about you can’t continue watching it. Insulting the guest news channel invites and pay is normal. 
 
  >Inciting public sentiment over sensitive issues, over and over again is the recipe most news channels never get bored of. 
 
@@ -71,15 +72,20 @@ Well if you want peace of mind you can do a lot better. Repeated hype mongering 
 
 They want to you worry about the issues in the world not just to be aware about it, so you will be tempted watching more news, .
 
-And that is not good for you. As Naval said:
-“Stay away from people who are world-weary and belittle your ambitions.”
-Being aware of current situation between Israel and philistine conflict is good but you don’t have to think watching news about it will change anything. It takes your attention away from things that need more thinking.
-Husband watching news channel and telling wife “you are talking about one plant drying in lawn? Here people are dying in Syria. 
+And that is not good for you. As Naval Ravikant said:
+
+>“Stay away from people who are world-weary and belittle your ambitions.”
+
+Being aware of current situation of Israel Philistine conflict is good, but you don’t have to think watching news about it will change anything. It takes your attention away from things that need more thinking.
+
+Husband watching news channel and telling wife “you are talking about one plant drying in lawn? Here people are dying all over the world. 
 
  
 **Repetitions of content** 
 
-There is something new happening in the world we live in. Still we don't have to know about it. For instance if there is a robbery happened in luxurious closed gated community. It can be a news for people in its locailty but not for you living 1000 miles away from it.  If a cat got lost and returns home after a month its not a news. 
+There is something new happening in the world we live in. Still we don't have to know about it. For instance if there is a robbery happened in luxurious closed gated community. 
+
+It can be a news for people in its locailty but not for you living 1000 miles away from it.  If a cat got lost and returns home after a month its not a news. 
 
 Other thing is when there is nothing else to show news channels will pick the same news and show it with a new guest, in the name of "a different perspective". Truth is there is not always a worthy content to show and in these times news channels picks the same old content and their favorite recipe of targeting the emotions. 
 
