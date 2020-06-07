@@ -19,11 +19,10 @@ categories:
 
 Every time you open news channel, you see world is dealing with a new disaster, a war happening somewhere killing innocent people, crime rates spiking, pollution level at all time high, terrorism spreading, poverty not ending, oppression, crisis etc.
 
-Few years back a kid fell into a borewell in a small town, India. It was tragic incident. No doubt about it. And news channels knew it better than anyone else. Because they decided to cover this news for next 2 days straight.
-
-Now there is nothing wrong in covering a news, but giving every news the label of a tragedy we should be paying attention is just blatantly wrong.Before we go further and discuss why you should stop watching news channels, let’s remind ourselves what is the meaning of news.
+Now there is nothing wrong in covering news, but giving every news the label of a heart wrenching tragedy we should be paying attention to is just blatantly wrong. News media has forgotton the unspoken news of news coverage and people have no other option other than to be served with t. Before we go further and discuss why you should stop watching news channels, let’s remind ourselves what is the meaning of news.
 
 As per Merriam Webster dictionary, Definition of news: 
+
 a: report of recent events
 b: previously unknown information
 c: something having a specified influence or effect
