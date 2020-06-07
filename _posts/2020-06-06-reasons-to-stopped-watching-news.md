@@ -83,4 +83,4 @@ There is something new happening in the world we live in. Still we don't have to
 Other thing is when there is nothing else to show news channels will pick the same news and show it with a new guest, in the name of "a different perspective". Truth is there is not always a worthy content to show and in these times news channels picks the same old content and their favorite recipe of targeting the emotions. 
 
 
->News media has forgotton the unspoken rules of news coverage and people have no other option other than to be served with it low quality. 
+>News media has forgotton the unspoken rules of news coverage and people have no other option other than to be served with this low quality news/garbage. 
