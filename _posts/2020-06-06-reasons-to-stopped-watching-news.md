@@ -30,6 +30,7 @@ As per Merriam Webster dictionary, Definition of news:
 
 News channels focus on the third definition above everything else. 
 
+
 ### News channels makes you stressed out and anxious ###
 
 The way news channels portray the negative news is something worth paying attention to. <em>**News media love negative news and they love exaggerating the negative news to the epic proportions to garner more viewers**</em>. But this distortion has consequences.
@@ -41,8 +42,7 @@ A recent survey from the American Psychological Association found More than half
 >Whether or not the world really is getting worse, the way news channels shows it, watching it will make us think that it is. The nature of news likely distorts people’s view of the world
 
 
-**News Watching is Emotionally Draining**
-
+### News Watching is Emotionally Draining ###
 
 News channels want to play news which effect viewers emotionally. The emotion can be vary from inciting patriotism or hatred towards people responsible for an incident, sympathy for a cause. News media will try to get news which will invoke any emotion which can keep you glued to the channel. 
 
@@ -55,8 +55,8 @@ Now why do you open news channel? To know what’s happening around. And when yo
 So do news channels are aware of this? Don’t they know they can do better than this? Of course they do. But doing won’t keep the people glued to the channel.
 
 
-**News channels are biased**
 
+### News channels are biased ###
 
 As news journalist what should be your job. To tell the news and to be unbiased while doing so.
 
@@ -66,7 +66,7 @@ People of all political orientation has found their favorite news channel. Right
 
 
 
-**News Belittle Your Own Ambitions**
+### News Belittle Your Own Ambitions ###
 
 Well if you want peace of mind you can do a lot better. Repeated hype mongering screws up your mind. It emotionally drains you. News channels want you to care about news, they want you to think about it. 
 
@@ -80,8 +80,9 @@ Being aware of current situation of Israel Philistine conflict is good, but you 
 
 Husband watching news channel and telling wife “you are talking about one plant drying in lawn? Here people are dying all over the world. 
 
+
  
-**Repetitions of content** 
+### Repetitions of content ### 
 
 There is something new happening in the world we live in. Still we don't have to know about it. For instance if there is a robbery happened in luxurious closed gated community. 
 
