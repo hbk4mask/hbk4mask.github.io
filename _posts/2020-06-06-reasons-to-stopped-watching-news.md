@@ -33,10 +33,11 @@ News channels focus on the third definition above everything else.
 
 **News channels makes you stressed out and anxious**
 
-The way news channels portray the negative news is something worth paying attention to. News media loves negative news and they love exaggerating negative news to the epic proportions. And this distortion has consequences
+The way news channels portray the negative news is something worth paying attention to. News media love negative news and they love exaggerating the negative news to the epic proportions to garner more viewers. But this distortion has consequences.
 
-And you will carry the mood for somtime. If you have fitness watch you can confirm it yourself. Watch you your heart rate rises after few minutes of watching your favorite news channel.
-A recent survey from the American Psychological Association found More than half of Americans say the news causes them stress, and many report feeling anxiety, fatigue or sleep loss as a result, the survey shows
+If you have fitness watch you can confirm it yourself. Watch you your heart rate rises after few minutes of watching your favorite news channel.
+
+A recent survey from the American Psychological Association found More than half of Americans say the news causes them stress, and many report feeling anxiety, fatigue or sleep loss as a result.
 
 >Whether or not the world really is getting worse, the way news channels shows it, watching it will make us think that it is. The nature of news likely distorts people’s view of the world
 
