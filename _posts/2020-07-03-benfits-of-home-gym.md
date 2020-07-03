@@ -24,7 +24,8 @@ Well there is nothing wrong in doing that only downside is you will get bored so
 
 There are huge benefits of investing in buying home gym equipment. Here are some benefits 
 
-1.	One time investment which you can use forever
+
+### 1.	One time investment which you can use forever ### 
 
 Buy few sturdy cast iron dumbbells or kettlebells and you can use them forever.
 
@@ -32,14 +33,17 @@ Remember we are not talking about buying high end complex machines with wires an
 
 For instance some barbells come with lifetime warranty against breaking. Generally, you can train our entire body if you have nothing but just few dumbbells. Add a barbell with few weights and you have more than enough workout options to train every body part.
 
-2.	Savings on expensive gym membership 
+
+### 2.	Savings on expensive gym membership ###  
 
 It’s no brainer that having workout equipment at home means you don’t have to buy expensive gym membership. Apart from serious lifters and professionals, most of the people need comparatively less fitness equipment to maintain fitness level.
 
 So even if you have to spend money more than your yearly gym membership, you are getting a bargain. Moreover rarely utilize the gym membership completely. 
 
 Sometime we feel like taking a break from workouts due to illness or to give break to your body (sometime out of laziness) and sometime we go for vacation. So investing all that money in gym and not using it can be thing of the past.
-3.	Saving time to commute to gym
+
+
+### 3.	Saving time to commute to gym ### 
 
 This is better than money saving. Commuting to gym is always a problem if you are a working professionals. You have to schedule your workout around your office hours and you have to accommodate commute time too in your schedule.
 
@@ -48,7 +52,7 @@ And sometimes you get stuck at work and have to skip gym. Having ability to work
 I personally, on few days find it tough to commute to gym. And that is due to traffic and making my gym bag ready. Now during lockdown period my workouts frequency has increased and I rarely miss workout.
 
 
-4.	Flexibly to workout whenever you want (avoiding rush hours)
+### 4.	Flexibly to workout whenever you want (and avoid rush hours) ### 
 
 If you are into fitness you know getting your workout done is always in your mind till you get it done. And when you reach gym, all you want is all of the gym dumbbells and work stations at your behest to be used. But that rarely happens. 
 
@@ -57,7 +61,7 @@ More than often you end up searching for that single dumbbell occupied by two du
 Now with gym equipment at home you are master of all the fitness equipment. With gym equipment at a home, you can work out whenever you want. That means you can do all those drop sets and nobody will compel you complete your set by staring at you while waiting for your dumbbells.
 
 
-5.	Avoid Catching Infections
+### 5.	Prevention from Catching Infections ### 
 
 Now this might come as bit of a shocker, but gym is breeding place for all types of skin infection spreading bacteria and fungi. Infact, about one-third of people, gym-goers or not, carry some type of staph on their skin. So ringworm, staph infection can easily spread among gym goers. 
 
@@ -66,7 +70,7 @@ In addition to that respiratory infections like cold, flu can spread easily in a
 In gym you touch and use same dumbbells and barbells and fitness machines used by another person almost instantly. We wipe the sweat with tissue or cloth but that’s not enough. If you have a weak immunity the chances of catching these viruses and bacteria is very high.
 
 
-Bonus
+### Bonus Content### 
 
 Sample Home Equipment List
 
@@ -80,4 +84,5 @@ Sample Home Equipment List
 8.	Bench with different angles
 
 Pick 2-3 from these listed items and choose weight as per your strength and comfort level. Remember, this pandemic will go one day and you will be able to get back to all the things you used to do before. What you won’t get is this time back.
+
 Hope it helps.
