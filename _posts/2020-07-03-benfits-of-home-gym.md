@@ -41,7 +41,9 @@ Add a barbell with few weights and you have more than enough workout options to 
 
 ### 2.	Savings on expensive gym membership ###  
 
-It’s no brainer that having workout equipment at home means you don’t have to buy expensive gym membership. Apart from serious lifters and professionals, most of the people need comparatively less fitness equipment to maintain fitness level.
+It’s no brainer that having workout equipment at home means you don’t have to buy expensive gym membership. 
+
+Apart from serious lifters and professionals, most of the people need comparatively less fitness equipment to maintain general fitness level.
 
 So even if you have to spend money more than your yearly gym membership, you are getting a bargain. 
 
@@ -63,7 +65,9 @@ I personally, on few days find it tough to commute to gym. And that is due to tr
 
 ### 4.	Flexibly to workout whenever you want (and avoid rush hours) ### 
 
-If you are into fitness you know getting your workout done is always in your mind till you get it done. And when you reach gym, all you want is all of the gym dumbbells and work stations at your behest to be used. But that rarely happens. 
+If you are into fitness you know getting your workout done is always in your mind till you get it done.
+
+And when you reach gym, all you want is all of the gym dumbbells and work stations at your behest to be used. But that rarely happens. 
 
 More than often you end up searching for that single dumbbell occupied by two dudes doing arms together.  This is common if you are going to gym in rush hours of morning and evening. 
 
