@@ -3,7 +3,7 @@ title: "5 Reasons Why You Should invest in Home Gym"
 layout: single
 classes: wide
 font: serif
-tags: [coronavirus, news, covid19, news channels, news media]
+tags: [coronavirus, gym, covid19, fitness, workout]
 
 excerpt: "The way things are going on, you won’t be able to use public gym anytime soon and even if the nearby gyms open up you should not rush in and start using them."
 
