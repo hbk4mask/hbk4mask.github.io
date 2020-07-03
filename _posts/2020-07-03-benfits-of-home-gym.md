@@ -21,7 +21,7 @@ Coronavirus pandemic has consumed the first half of 2020 and there is no visible
 If you are a person who used to go to public gyms then you workout regimen must be taking a serious hit.
 The way things are going on, you won’t be able to use public gym anytime soon and even if the nearby gyms open up you should not rush in and start using them. 
 
->** So what should you do? Continue doing your body weight workouts at home? ** 
+>**So what should you do? Continue doing your body weight workouts at home?** 
 
 Well there is nothing wrong in doing that only downside is you will get bored soon. The right thing to do now is to invest in some solid gym equipment for your home.
 
@@ -32,9 +32,11 @@ There are huge benefits of investing in buying home gym equipment. Here are some
 
 Buy few sturdy cast iron dumbbells or kettlebells and you can use them forever.
 
-Remember we are not talking about buying high end complex machines with wires and ball bearings that demand timely maintenance. We are talking about buying stuff like good old free weights, which don’t need any dedicated care (apart from some cleaning of course).
+Remember we are not talking about buying high end complex machines with wires and ball bearings that demand timely maintenance. We are talking about buying stuff like good old free weights, which don’t need any dedicated care.
 
-For instance some barbells come with lifetime warranty against breaking. Generally, you can train our entire body if you have nothing but just few dumbbells. Add a barbell with few weights and you have more than enough workout options to train every body part.
+For instance some barbells come with lifetime warranty against breaking. Generally, you can train our entire body if you have nothing but just few dumbbells.
+
+Add a barbell with few weights and you have more than enough workout options to train every body part.
 
 
 ### 2.	Savings on expensive gym membership ###  
@@ -43,9 +45,11 @@ It’s no brainer that having workout equipment at home means you don’t have t
 
 So even if you have to spend money more than your yearly gym membership, you are getting a bargain. 
 
->** Moreover you rarely utilize the gym membership completely. ** 
+>**Moreover you rarely utilize the gym membership completely.** 
 
-Sometime we feel like taking a break from workouts due to illness or to give break to your body (sometime out of laziness) and sometime we go for vacation. So investing all that money in gym and not using it can be thing of the past.
+Sometime we feel like taking a break from workouts due to illness or to give break to your body (sometime out of laziness) and sometime we go for vacation. 
+
+So investing all that money in gym and not using it can be thing of the past.
 
 
 ### 3.	Saving time to commute to gym ### 
@@ -63,7 +67,7 @@ If you are into fitness you know getting your workout done is always in your min
 
 More than often you end up searching for that single dumbbell occupied by two dudes doing arms together.  This is common if you are going to gym in rush hours of morning and evening. 
 
->** Now with gym equipment at home you are master of all the fitness equipment.** 
+>**Now with gym equipment at home you are master of all the fitness equipment.** 
 
  With gym equipment at a home, you can work out whenever you want. That means you can do all those drop sets and nobody will compel you complete your set by staring at you while waiting for your dumbbells.
 
@@ -74,7 +78,9 @@ Now this might come as bit of a shocker, but gym is breeding place for all types
 
 In addition to that respiratory infections like cold, flu can spread easily in any kind of close quarters, including and specially gyms. Usually these viruses are transmitted through droplets from someone else’s coughs and sneezes, and most can live a little while outside the body. Long enough to be transmitted to other body.
 
-In gym you touch and use same dumbbells and barbells and fitness machines used by another person almost instantly. We wipe the sweat with tissue or cloth but that’s not enough. If you have a weak immunity the chances of catching these viruses and bacteria is very high.
+In gym you touch and use same dumbbells and barbells and fitness machines used by another person almost instantly. We wipe the sweat with tissue or cloth but that’s not enough. 
+
+If you have a weak immunity the chances of catching these viruses and bacteria is very high.
 
 
 ### Bonus Content ### 
