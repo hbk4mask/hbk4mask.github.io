@@ -17,12 +17,15 @@ published: true
 categories: 
 ---
 Coronavirus pandemic has consumed the first half of 2020 and there is no visible end in sight. As per vaccine prediction many governments are predicting it would take 6-8 months.
- If you are a person who used to go to public gyms then you workout regimen must be taking a serious hit.
+
+If you are a person who used to go to public gyms then you workout regimen must be taking a serious hit.
 The way things are going on, you won’t be able to use public gym anytime soon and even if the nearby gyms open up you should not rush in and start using them. 
-So what should you do? Continue doing your body weight workouts at home?
+
+>** So what should you do? Continue doing your body weight workouts at home? ** 
+
 Well there is nothing wrong in doing that only downside is you will get bored soon. The right thing to do now is to invest in some solid gym equipment for your home.
 
-There are huge benefits of investing in buying home gym equipment. Here are some benefits 
+There are huge benefits of investing in buying home gym equipment. Here are some benefits :
 
 
 ### 1.	One time investment which you can use forever ### 
@@ -38,7 +41,9 @@ For instance some barbells come with lifetime warranty against breaking. General
 
 It’s no brainer that having workout equipment at home means you don’t have to buy expensive gym membership. Apart from serious lifters and professionals, most of the people need comparatively less fitness equipment to maintain fitness level.
 
-So even if you have to spend money more than your yearly gym membership, you are getting a bargain. Moreover rarely utilize the gym membership completely. 
+So even if you have to spend money more than your yearly gym membership, you are getting a bargain. 
+
+>** Moreover you rarely utilize the gym membership completely. ** 
 
 Sometime we feel like taking a break from workouts due to illness or to give break to your body (sometime out of laziness) and sometime we go for vacation. So investing all that money in gym and not using it can be thing of the past.
 
@@ -58,7 +63,9 @@ If you are into fitness you know getting your workout done is always in your min
 
 More than often you end up searching for that single dumbbell occupied by two dudes doing arms together.  This is common if you are going to gym in rush hours of morning and evening. 
 
-Now with gym equipment at home you are master of all the fitness equipment. With gym equipment at a home, you can work out whenever you want. That means you can do all those drop sets and nobody will compel you complete your set by staring at you while waiting for your dumbbells.
+>** Now with gym equipment at home you are master of all the fitness equipment.** 
+
+ With gym equipment at a home, you can work out whenever you want. That means you can do all those drop sets and nobody will compel you complete your set by staring at you while waiting for your dumbbells.
 
 
 ### 5.	Prevention from Catching Infections ### 
@@ -70,7 +77,7 @@ In addition to that respiratory infections like cold, flu can spread easily in a
 In gym you touch and use same dumbbells and barbells and fitness machines used by another person almost instantly. We wipe the sweat with tissue or cloth but that’s not enough. If you have a weak immunity the chances of catching these viruses and bacteria is very high.
 
 
-### Bonus Content### 
+### Bonus Content ### 
 
 Sample Home Equipment List
 
