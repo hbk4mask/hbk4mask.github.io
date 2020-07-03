@@ -8,8 +8,8 @@ tags: [coronavirus, news, covid19, news channels, news media]
 excerpt: "The way things are going on, you won’t be able to use public gym anytime soon and even if the nearby gyms open up you should not rush in and start using them."
 
 header:
-  image: /assets/images/post_images/gym.jpg
-  teaser: /assets/images/post_images/gym.jpg
+  image: /assets/images/post_images/gym2.jpg
+  teaser: /assets/images/post_images/gym2.jpg
   image_description: "gym"
   
 permalink:
