@@ -93,12 +93,12 @@ If you have a weak immunity the chances of catching these viruses and bacteria i
 
 Sample Home Equipment List
 
-1.	Dumbbells (5, 7.5, 10, 12.5, 15 kg)
-2.	Elastic bands (15 kg, 25 kg, 45 kg resistance)
+1.	Dumbbells 
+2.	Elastic bands 
 3.	Yoga mat 
 4.	Olympic barbell
-5.	Bumper Weights Plates (5, 10, 20 kg)
-6.	Kettlebells (5, 7.5, 10, 12.5, 15 kg)
+5.	Bumper Weights Plates 
+6.	Kettlebells 
 7.	Chin up bar
 8.	Bench with different angles
 
