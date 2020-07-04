@@ -78,25 +78,27 @@ More than often you end up searching for that single dumbbell occupied by two du
 
 ### 5.	Prevention from Catching Infections ### 
 
-Now this might come as bit of a shocker, but gym is breeding place for all types of skin infection spreading bacteria and fungi. Infact, about one-third of people, gym-goers or not, carry some type of staph on their skin. So ringworm, staph infection can easily spread among gym goers. 
+Now this might come as bit of a shocker, but gym is breeding place for all types of skin infection spreading bacteria and fungi.
+
+Infact, about one-third of people, gym-goers or not, carry some type of staph on their skin. So ringworm, staph infection can easily spread among gym goers. 
 
 In addition to that respiratory infections like cold, flu can spread easily in any kind of close quarters, including and specially gyms. Usually these viruses are transmitted through droplets from someone else’s coughs and sneezes, and most can live a little while outside the body. Long enough to be transmitted to other body.
 
 In gym you touch and use same dumbbells and barbells and fitness machines used by another person almost instantly. We wipe the sweat with tissue or cloth but that’s not enough. 
 
-If you have a weak immunity the chances of catching these viruses and bacteria is very high.
+If you have a weak immunity the chances of catching these viruses and bacteria is very high in gyms.
 
 
 ### Bonus Content ### 
 
 Sample Home Equipment List
 
-1.	Dumbbells (5,7.5,10,12.5,15 kg)
+1.	Dumbbells (5, 7.5, 10, 12.5, 15 kg)
 2.	Elastic bands (15 kg, 25 kg, 45 kg resistance)
 3.	Yoga mat 
 4.	Olympic barbell
 5.	Bumper Weights Plates (5, 10, 20 kg)
-6.	Kettlebells (5,7.5,10,12.5,15 kg)
+6.	Kettlebells (5, 7.5, 10, 12.5, 15 kg)
 7.	Chin up bar
 8.	Bench with different angles
 
