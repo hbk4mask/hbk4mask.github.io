@@ -1,5 +1,5 @@
 ---
-title: "Why forced remote work is the best thing Coronavirus gave us"
+title: "Why forced remote work is the best thing Covid19 gave us"
 layout: single
 classes: wide
 font: serif
