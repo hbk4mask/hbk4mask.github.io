@@ -9,7 +9,7 @@ excerpt: "Now the working class has been forced to stay at home and work using t
 
 header:
   image: /assets/images/post_images/wfh_big.jpg
-  teaser: /assets/images/post_images/wfh_small.jpg
+  teaser: /assets/images/post_images/wfh_small2.jpg
   image_description: "wfh"
   
 permalink:
