@@ -8,8 +8,8 @@ tags: [coronavirus, news, covid19, remote work, work from home]
 excerpt: "Now the working class has been forced to stay at home and work using their laptops. This is unprecedented."
 
 header:
-  image: /assets/images/post_images/wfh.PNG
-  teaser: /assets/images/post_images/wfh.PNG
+  image: /assets/images/post_images/wfh_big.jpg
+  teaser: /assets/images/post_images/wfh_small.jpg
   image_description: "wfh"
   
 permalink:
