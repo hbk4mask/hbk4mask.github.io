@@ -8,8 +8,8 @@ tags: [coronavirus, gym, covid19, fitness, workout, stress, self-help, self-care
 excerpt: "But a section of people can benefit a lot from this time. And I am not taking about introverts."
 
 header:
-  image: /assets/images/post_images/selfdev.PNG
-  teaser: /assets/images/post_images/selfdev.PNG
+  image: /assets/images/post_images/selfdev2.PNG
+  teaser: /assets/images/post_images/selfdev2.PNG
   
 permalink:
 published: true
@@ -31,19 +31,21 @@ Here are few things you can do to make most out of this lockdown:
 
 There are days on which you really don’t get time to hit the gym. But now with 24 hours being at home there is more than enough time to work out.
 
-Buy some weights and there are unlimited workout you can do at home. [Why You Should invest in Home Gym ?](https://www.amankaushik.blog/benfits-of-home-gym/).
+Buy some weights and there are unlimited workout you can do at home. [Why You Should invest in Home Gym ?](https://www.amankaushik.blog/benfits-of-home-gym/)
 
 
 ### 2. Meditation ###
 
 Stress happens when you want to be at two places at same time or want to do two things at same time. This time is very stressful for all and meditation is very effective and cheapest way to keep the stress at bay. There are tremendous benefits of meditation on your mind and body.
 
-A 10 minute of meditation session in morning can change the tone of the entire day. Meditation is another gift by The East to the world and it’s definitely worth trying to improve your overall well being.
+> A 10 minute of meditation session in morning can change the tone of the entire day. 
+
+Meditation is another gift by The East to the world and it’s definitely worth trying to improve your overall well being.
 
 
 ### 3. Self-Care ### 
 
-In the hustle bustle of life, it’s very hard to find out time for self-care. There are many things that we want to do daily but are unable to do because of lack of time. 
+In the hustle bustle of life, it’s very hard to find out time for self-care. There are many self-care activities that you might wanted to do daily, but were unable to do because of lack of time.
 
 Taking care of your skin. Doing detox diet for day. Maintaining a journal. Getting enough sleep. Spending enough time with your loved ones. Following a nutritious, healthy diet, etc. You can do all of these or atleast some of these activities now.
 
