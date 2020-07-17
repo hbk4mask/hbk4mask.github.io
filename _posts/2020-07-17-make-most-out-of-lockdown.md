@@ -1,5 +1,5 @@
 ---
-title: "5 Hacks To Make The Most Out Lockdown"
+title: "5 Hacks To Make The Most Out Of Lockdown"
 layout: single
 classes: wide
 font: serif
