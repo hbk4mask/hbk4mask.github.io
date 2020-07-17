@@ -70,6 +70,6 @@ Reading books is considered as the hobby of smart people or hobby of people who 
 If you have books which you purchased but never completed. Or if you have book in your mind which you want to read this is the time to do that.
 
 
-> This Pandemic will go but this time will never come back
+> This Pandemic will go but this time will never come back. Make the most out of it.
 
 
