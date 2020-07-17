@@ -67,7 +67,7 @@ You want to change your area of work, or if you want to get some certification t
 
 ### 5. Books ###
 
-Reading books is considered as the hobby of smart people or hobby of people who want to be smart. This is ideal time for reading books.
+Reading books is considered as the hobby of leaders or hobby of people who want to be knowledgeable. This is ideal time for reading books.
 
 If you have books which you purchased but never completed. Or if you have book in your mind which you want to read this is the time to do that.
 
