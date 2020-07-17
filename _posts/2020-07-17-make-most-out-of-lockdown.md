@@ -18,7 +18,7 @@ categories:
 
 There is no denying in the fact the Coronavirus is the one of the biggest crisis this world has ever faced. All countries are facing one gigantic problem at the same time.
 
-Now without a doubt all of us getting impacted by coronavirus in some way or form. People are losing jobs, travel and hospitability industry are badly hit.
+Now without a doubt all of us getting impacted by coronavirus in some way or form. People are losing jobs, travel and hospitability industry are badly hit, you can't go to any public places.
 
 Despite all this, many people who are locked at home can benefit a lot from this lockdown time. And I am not taking about introverts. I am talking about people who always a time deficit to do things.
 
@@ -29,7 +29,7 @@ Here are few things you can do to make most out of this lockdown:
 
 "I don’t have time to work out". "Oh man I am too busy to work out". That’s the common excuse people have against working out. And sometimes it a genuine reason too.
 
-There are days on which you really don’t get time to hit the gym. But now with 24 hours being at home there is more than enough time to work out.
+There are days on which you really don’t get time to hit the gym. But now with 24 hours of the day being at home there is more than enough time to work out.
 
 Buy some weights and there are unlimited workout you can do at home. [Why You Should invest in Home Gym ?](https://www.amankaushik.blog/benfits-of-home-gym/)
 
