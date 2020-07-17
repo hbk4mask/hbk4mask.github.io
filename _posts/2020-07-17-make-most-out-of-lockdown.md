@@ -5,7 +5,7 @@ classes: wide
 font: serif
 tags: [coronavirus, gym, covid19, fitness, workout, stress, self-help, self-care]
 
-excerpt: "But a section of people can benefit a lot from this time. And I am not taking about introverts."
+excerpt: "But a section of people can benefit a lot from this lockdown time. And I am not taking about introverts."
 
 header:
   image: /assets/images/post_images/selfdev2.PNG
@@ -20,7 +20,7 @@ There is no denying in the fact the Coronavirus is the one of the biggest crisis
 
 Now without a doubt all of us getting impacted by coronavirus in some way or form. People are losing jobs, travel and hospitability industry are badly hit.
 
-Despite all this, many people who are locked at home can benefit a lot from this time. And I am not taking about introverts. I am talking about people who always a time deficit to do things.
+Despite all this, many people who are locked at home can benefit a lot from this lockdown time. And I am not taking about introverts. I am talking about people who always a time deficit to do things.
 
 
 Here are few things you can do to make most out of this lockdown:
