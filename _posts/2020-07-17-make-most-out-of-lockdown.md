@@ -36,7 +36,9 @@ Buy some weights and there are unlimited workout you can do at home. [Why You Sh
 
 ### 2. Meditation ###
 
-Stress happens when you want to be at two places at same time or want to do two things at same time. This time is very stressful for all and meditation is very effective and cheapest way to keep the stress at bay. There are tremendous benefits of meditation on your mind and body.
+Stress happens when you want to be at two places at same time or want to do two things at same time.
+
+This time is very stressful for everyone and meditation is very effective and cheapest way to keep the stress at bay. There are tremendous benefits of meditation on your mind and body.
 
 > A 10 minute of meditation session in morning can change the tone of the entire day. 
 
