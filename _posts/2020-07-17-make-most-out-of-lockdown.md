@@ -47,22 +47,22 @@ Meditation is another gift by The East to the world and it’s definitely worth 
 
 ### 3. Self-Care ### 
 
-In the hustle bustle of life, it’s very hard to find out time for self-care. There are many self-care activities that you might wanted to do daily, but were unable to do because of lack of time.
+In the hustle bustle of life, it’s very hard to find out time for self-care. There are many self-care activities that you might have wanted to do daily, but were unable to do so because of lack of time.
 
-Taking care of your skin. Doing detox diet for day. Maintaining a journal. Getting enough sleep. Spending enough time with your loved ones. Following a nutritious, healthy diet, etc. You can do all of these or atleast some of these activities now.
+Taking care of your skin. Doing detox diet for a day. Maintaining a journal. Getting enough sleep. Spending enough time with your loved ones. Following a nutritious, healthy diet, etc. You can do all most of these activities now.
 
-Do at least one relaxing activity every day, whether it’s taking a walk or spending 30 minutes unwinding with something you love. Even taking a proper shower without being in hurry can improve your mood. 
+Do at least one relaxing activity every day, whether it’s taking a walk or spending 30 minutes unwinding with something you love. Even taking a proper shower without being in a hurry is a self-care activity that you can do to uplift your mood. 
 
 
 ### 4. Online Courses ###
 
 There is no better way to learn something new other than doing online course. 
 
-With plethora of online course provider available, this is an amazing opportunity to enroll in that online course you always wanted but had no time to do it. 
+With plethora of online course provider available, this is an amazing opportunity to enroll in that online course you always wanted to join but had no time to do it. 
 
 > Video tutorial with study material is all people who are pursuing full time degrees are using during this pandemic. 
 
-You want to change your area of work, or if you want to get some certification to solidify your resume, there are enough online courses available to achieve all of your goals. 
+If you want to change your area of work, or if you want to get some certification to solidify your resume, there are enough online courses available to achieve all of your learning goals. 
 
 
 ### 5. Books ###
