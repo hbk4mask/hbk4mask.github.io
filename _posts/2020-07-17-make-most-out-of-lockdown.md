@@ -18,7 +18,7 @@ categories:
 
 There is no denying in the fact the Coronavirus is the one of the biggest crisis this world has ever faced. All countries are facing one gigantic problem at the same time.
 
-Now without a doubt all of us getting impacted by coronavirus in some way or form. People are losing jobs, travel and hospitability industry is badly hit, school and college classes have gone online and of cpourse you can't go to any public places.
+Now without a doubt all of us getting impacted by coronavirus in some shape or form. People are losing jobs, travel and hospitability industry is badly hit, school and college classes have gone online and of cpourse you can't go to any public places.
 
 Despite all this, many people who are locked at home can benefit a lot from this lockdown time. And I am not taking about introverts. I am talking about people who always a time deficit to do things.
 
