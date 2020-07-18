@@ -31,7 +31,7 @@ Here are few things you can do to make most out of this lockdown:
 
 There are days on which you really don’t get time to hit the gym. But now with 24 hours of the day being at home there is more than enough time to work out.
 
-Buy some weights and there are unlimited workout you can do at home. [Why You Should invest in Home Gym ?](https://www.amankaushik.blog/benfits-of-home-gym/)
+Buy some weights and there are unlimited workouts you can do at home. [Why You Should invest in Home Gym ?](https://www.amankaushik.blog/benfits-of-home-gym/)
 
 
 ### 2. Meditation ###
