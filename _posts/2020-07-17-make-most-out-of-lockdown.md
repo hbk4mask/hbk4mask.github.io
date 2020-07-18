@@ -27,7 +27,7 @@ Here are few things you can do to make most out of this lockdown:
 
 ### 1. Workout ###
 
-"I don’t have time to work out". "Oh man I am too busy to work out". That’s the common excuse people have to avoid work out at home or at gym. And sometimes it a genuine reason too.
+"I don’t have time to work out". "Oh man I am too busy to work out". That’s the common excuse people have to avoid work out at home or at gym. And sometimes it is a genuine reason too.
 
 There are days on which you really don’t get time to hit the gym. But now with 24 hours of the day being at home there is more than enough time to work out.
 
