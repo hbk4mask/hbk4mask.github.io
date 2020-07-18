@@ -5,7 +5,7 @@ classes: wide
 font: serif
 tags: [coronavirus, gym, covid19, fitness, workout, stress, self-help, self-care]
 
-excerpt: "But a section of people can benefit a lot from this lockdown time. And I am not taking about introverts."
+excerpt: "But a section of people can benefit a lot from this lockdown time. And I am not talking about introverts."
 
 header:
   image: /assets/images/post_images/selfdev.PNG
