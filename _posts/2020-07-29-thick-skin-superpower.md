@@ -23,7 +23,7 @@ categories:
 
 In a world where people have got this massive power to write anything they want and get away with it, having a thick skin has become an absolutely must have trait.
  
-People who don’t get easily hurt by criticism, insult, and etc. do very well not only online and also offline.
+People who don’t get easily hurt by criticism, insult, and etc. do very well not only online, but also offline.
 
 But why more and more people are easily offended nowadays.
 
