@@ -39,7 +39,9 @@ For them anyone apart from them can’t correct their kids. Even if they are tea
 
 It’s a famous African proverb that means that an entire community of people must interact with children for those children to experience and grow in a safe and healthy environment.
 
-Few decades back entire neighborhood used to take care of each other kids. There was no reason to distrust anybody. Neighbors used to scold each other kids and people use to take it lightly. Now we don’t even talk to our neighbor on same floor.
+Few decades back entire neighborhood used to take care of each other kids. There was no reason to distrust anybody. 
+
+Neighbors used to scold each other kids and people use to take it lightly. Now we don’t even talk to our neighbor on same floor.
 
 There are always some people around you who can and say mean things. Sometime people just pull leg and make a joke. But people with sensitive mind can take it to the heart. 
 
@@ -61,9 +63,11 @@ So in both situtation you have a reason to not be upset.
 
 Keep in mind you won’t be liked by everyone. And that’s ok. 
 
-Also remember how well you are doing than people who are born in poverty and are struggling to get food on table. Is your problem bigger than what these people are facing every day? Most probably it’s not.
+Also think, how well you are doing compare to people who are born in poverty and are struggling to get food on table.
 
-So look up and mind you own business.
+Is your problem is bigger than what these people are facing every day? Most probably, it’s not.
+
+So look up and mind you own business, because :
 
 >What anyone think of you is none of your business.
 
