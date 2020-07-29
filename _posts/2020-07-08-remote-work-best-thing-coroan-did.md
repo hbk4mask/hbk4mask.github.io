@@ -5,7 +5,7 @@ classes: wide
 font: serif
 tags: [coronavirus, news, covid19, remote work, work from home]
 
-excerpt: "Now the working class has been forced to stay at home and work using their laptops. This is unprecedented."
+excerpt: "Now the working class has been forced to stay at home and work using their laptops"
 
 header:
   image: /assets/images/post_images/wfh_big.jpg
