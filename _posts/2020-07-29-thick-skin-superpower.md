@@ -29,7 +29,7 @@ But why more and more people are easily offended nowadays.
 
 Let’s start with kids.
 
-Now a days kids are raised with so much kindness and pamper-ness that a single comment by someone, even known to the kid and parent can make the kid and parents tremendously upset. 
+Now a days kids are raised with so much kindness and pamper-ness that a single comment by someone, even made by someone known to the kid and parents can make the kid and parents tremendously upset. 
 
 Teachers can’t scold students. Parents are not ready to take accept the notion that anyone can think of best interest of their kids apart from them.
 
