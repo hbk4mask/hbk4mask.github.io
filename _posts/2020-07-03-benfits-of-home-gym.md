@@ -5,7 +5,7 @@ classes: wide
 font: serif
 tags: [coronavirus, gym, covid19, fitness, workout]
 
-excerpt: "The way things are going on, you won’t be able to use public gym anytime soon and even if the nearby gyms open up you should not rush in and start using them."
+excerpt: "The way things are going on, you won’t be able to use public gym anytime soon and even if the nearby gyms open up you should not rush in"
 
 header:
   image: /assets/images/post_images/gym2.jpg
