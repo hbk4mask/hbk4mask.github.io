@@ -1,5 +1,5 @@
 ---
-title: "Having a Thick Skin Online & Offline is Superpower"
+title: "Having a Thick Skin, Online & Offline is a Superpower"
 layout: single
 classes: wide
 font: serif
