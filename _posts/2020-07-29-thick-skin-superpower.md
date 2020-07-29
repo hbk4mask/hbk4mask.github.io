@@ -39,7 +39,7 @@ For them anyone apart from them can’t correct their kids. Even if they are tea
 
 It’s a famous African proverb that means that an entire community of people must interact with children for those children to experience and grow in a safe and healthy environment.
 
-Few decades back entire neighborhood used to take care of each other kids. There was no reason to distrust anybody. 
+Few decades back entire neighborhood used to take care of each other's kids. There was no reason to distrust anybody. 
 
 Neighbors used to scold each other kids and people use to take it lightly. Now we don’t even talk to our neighbor on same floor.
 
