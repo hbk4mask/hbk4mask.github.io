@@ -35,26 +35,29 @@ Teachers can’t scold students. Parents are not ready to take accept the notion
 
 For them anyone apart from them can’t correct their kids. Even if they are teachers
 
-*** It takes a village to raise a child ***
+### It takes a village to raise a child ###
 
 It’s a famous African proverb that means that an entire community of people must interact with children for those children to experience and grow in a safe and healthy environment.
 
 Few decades back entire neighborhood used to take care of each other kids. There was no reason to distrust anybody. Neighbors used to scold each other kids and people use to take it lightly. Now we don’t even talk to our neighbor on same floor.
 
 There are always some people around you who can and say mean things. Sometime people just pull leg and make a joke. But people with sensitive mind can take it to the heart. 
-Obviously people are not socializing enough (not offline) at early age to gain understanding of society.
+
+>Obviously people are not socializing enough (not offline) at early age to gain understanding of the society.
 
 Now question is what can you do if you don’t have a thick skin? What can be done when faced with unpleasant situation?
 
 Whenever someone say something which hurts you. Always ask yourself this question:
 
-*** Will this person matter after 5 years? ***
+### Will this person matter after 5 years? ###
 
 If the answer is no, and more than often it is no then why to take this person seriously now? There is no reason.
 
-And if the person who made the comment is important then you should not feel too bad about it at first place, as the person is important and mean well.
+And if the person who made the comment is important then you should not feel too bad about it at first place, as the person is important and meant well.
 
-*** Does it affect everyone equally? *** 
+So in both situtation you have a reason to not be upset.
+
+### Does it affect everyone equally? ###
 
 Keep in mind you won’t be liked by everyone. And that’s ok. 
 
@@ -64,7 +67,7 @@ So look up and mind you own business.
 
 >What anyone think of you is none of your business.
 
-*** Advantages of having a thick skin: ***
+### Advantages of having a thick skin: ###
 
 1.	You are happier in general
 2.	People will take you seriously as you show maturity
