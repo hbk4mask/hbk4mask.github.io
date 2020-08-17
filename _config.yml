@@ -115,7 +115,7 @@ author:
       url: "https://www.youtube.com/channel/UChqgS-0NJMnEX5XC1wnUFoA"
     - label: "Gumroad"
       icon: "fab fa-fw fa-gumroad"
-      url: "https://gumroad.com/amankaushik"
+      # url: "https://gumroad.com/amankaushik"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/amankaushikbtw/"
