@@ -113,19 +113,15 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UChqgS-0NJMnEX5XC1wnUFoA"
+    - label: "Gumroad"
+      icon: "fab fa-fw fa-gumroad"
+      url: "https://gumroad.com/amankaushik"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/amankaushikbtw/"
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
-    
+
+
 # Site Footer
 footer:
   links:
@@ -145,6 +141,7 @@ include:
   - _pages
   - _posts
   - _drafts
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
