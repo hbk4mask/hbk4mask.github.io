@@ -4,9 +4,12 @@ main:
     url: http://www.amankaushik.blog
   - title: "Podcast"
     url: https://www.youtube.com/channel/UChqgS-0NJMnEX5XC1wnUFoA
+  - title: "MMA"
+    url: https://www.youtube.com/channel/UCO-BFTmbOrWfoQOoizzYp0A
   - title: "Books"
     url: https://gumroad.com/amankaushik
   - title: "T-Shirts"
     url: https://pages.razorpay.com/pl_GMRFtUUyqOWDWg/view
+
     #- title: "Articles"
     #url: /articles/  
