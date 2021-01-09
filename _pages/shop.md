@@ -23,10 +23,10 @@ permalink: /shop/
 </style>
 <main class="grid">
 <a href="https://pages.razorpay.com/pl_GMRFtUUyqOWDWg/view">
-<img src="/assets/images/post_images/tshirt2.png" width="225" height="350" alt="Sample photo">
+<img src="/assets/images/post_images/tshirt2.png" width="250" height="450" alt="Sample photo">
 </a>
 <a href="https://gumroad.com/amankaushik">
-  <img src="/assets/images/post_images/fix2.png" width="225" height="350" alt="Sample photo">
+  <img src="/assets/images/post_images/fix2.png" width="250" height="450" alt="Sample photo">
   </a>
 </main>
 **Disclaimer:** This website is under constant modification.
