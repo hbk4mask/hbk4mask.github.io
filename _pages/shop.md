@@ -6,7 +6,7 @@ permalink: /shop/
 
 ## Shop
 
-<!doctype html>
+
 <title>Example</title>
 <style>
 .grid { 
@@ -22,7 +22,9 @@ permalink: /shop/
 }
 </style>
 <main class="grid">
-  <img src="/assets/images/post_images/unnamed.jpg" alt="Sample photo">
+<a href="https://pages.razorpay.com/pl_GMRFtUUyqOWDWg/view">
+<img src="/assets/images/post_images/unnamed.jpg" alt="Sample photo">
+</a>
   <img src="/assets/images/post_images/fix.png" alt="Sample photo">
 </main>
 **Disclaimer:** This website is under constant modification.
