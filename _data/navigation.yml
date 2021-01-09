@@ -1,11 +1,12 @@
 # main links
 main:
+  - title: "Shop"
+    url: https://www.amankaushik.blog/shop/
   - title: "Podcast"
     url: https://www.youtube.com/channel/UChqgS-0NJMnEX5XC1wnUFoA
   - title: "MMA"
     url: https://www.youtube.com/channel/UCO-BFTmbOrWfoQOoizzYp0A
-  - title: "Shop"
-    url: https://www.amankaushik.blog/shop/
+
 
     #- title: "Articles"
     #url: /articles/  
