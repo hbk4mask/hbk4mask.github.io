@@ -25,7 +25,9 @@ permalink: /shop/
 <a href="https://pages.razorpay.com/pl_GMRFtUUyqOWDWg/view">
 <img src="/assets/images/post_images/unnamed.jpg" alt="Sample photo">
 </a>
+<a href="https://gumroad.com/amankaushik">
   <img src="/assets/images/post_images/fix.png" alt="Sample photo">
+  </a>
 </main>
 **Disclaimer:** This website is under constant modification.
 If you find something isn't right then,
