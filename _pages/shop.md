@@ -26,7 +26,7 @@ permalink: /shop/
 <img src="/assets/images/post_images/tshirt4.png" alt="Sample photo">
 </a>
 <a href="https://gumroad.com/amankaushik">
-  <img src="/assets/images/post_images/fix2.png" alt="Sample photo">
+  <img src="/assets/images/post_images/fix3.png" alt="Sample photo">
   </a>
 </main>
 **Disclaimer:** This website is under constant modification.
