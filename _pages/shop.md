@@ -22,7 +22,7 @@ permalink: /shop/
 }
 </style>
 <main class="grid">
-<a href="https://pages.razorpay.com/pl_GMRFtUUyqOWDWg/view">
+<a href="https://rzp.io/l/GM894nfH">
 <img src="/assets/images/post_images/tshirt4.png" alt="Sample photo">
 </a>
 <a href="https://gumroad.com/amankaushik">
